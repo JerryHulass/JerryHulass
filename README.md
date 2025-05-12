@@ -1,4 +1,4 @@
-## Hi there 👋
+## What's Up! 🙋🏾‍♂️
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently new to Software Development and eager to create/learn code.
